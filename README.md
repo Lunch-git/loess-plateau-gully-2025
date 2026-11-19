@@ -8,9 +8,11 @@
 
 ## 下载与使用
 
-在本仓库的 [Releases](../../releases) 页面下载原始 RAR 压缩包：
+在本仓库的 [Releases](https://github.com/Lunch-git/loess-plateau-gully-2025/releases) 页面下载 RAR 压缩包：
 
-`2025年度黄土高原侵蚀沟提取结果_SatelliteEmbeddingV1.gdb.rar`
+`gully_2025_SatelliteEmbeddingV1.gdb.rar`
+
+源文件名为 `2025年度黄土高原侵蚀沟提取结果_SatelliteEmbeddingV1.gdb.rar`。GitHub 下载附件采用英文文件名，文件内容保持不变，SHA-256 校验一致。
 
 - 数据年份：2025 年。
 - 数据格式：Esri File Geodatabase，使用 RAR 压缩。
